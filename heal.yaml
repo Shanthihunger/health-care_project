@@ -28,7 +28,7 @@ metadata:
     app:  bank_deploy
 spec:
   selector:
-    app:  bank_deploy
+    app:  heal_deploy
   type: NodePort
   ports:
   - nodePort: 35000
