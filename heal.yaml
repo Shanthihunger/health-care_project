@@ -31,6 +31,6 @@ spec:
     app:  heal_deploy
   type: NodePort
   ports:
-  - nodePort: 35000
+  - nodePort: 314000
     port: 8080
     targetPort: 8080
