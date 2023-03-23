@@ -25,7 +25,7 @@ kind: Service
 metadata:
   name: medicareservice
   labels:
-    app:  bankdeploy
+    app:  healdeploy
 spec:
   selector:
     app:  healdeploy
