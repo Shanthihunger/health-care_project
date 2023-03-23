@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: healdeploy
-        image: shanth19611356248/health_app
+        image: shanth19611356248/medicare-app
         ports:
         - containerPort: 8080
 ---
