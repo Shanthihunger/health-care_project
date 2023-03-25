@@ -31,6 +31,6 @@ spec:
     app:  healthdeploy
   type: NodePort
   ports:
-  - nodePort: 31402
+  - nodePort: 31400
     port: 8086
     targetPort: 8086
